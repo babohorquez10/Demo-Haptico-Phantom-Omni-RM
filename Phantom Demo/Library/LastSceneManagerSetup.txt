@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Haptic Project Components/Scene/Haptic Demo/Haptic Demo.unity
+  isLoaded: 1
+  isActive: 1
