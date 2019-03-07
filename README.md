@@ -13,7 +13,7 @@ Este demo se realizó en base a las escenas de ejemplo que vienen junto al plugi
 - Abrir la escena llamada "Haptic Demo".
 - Hacer el Build And Run del proyecto. (Para esto se puede utilizar el comando Ctrl + B o en el menú File > Build And Run).
 
-Nota: La ejecución del demo puede hacerse únicamente a través de la opción Build And Run ya que al ejectuar la escena desde Unity (al dar click en el botón Play en la escena) se genera un error.
+Nota: La ejecución del demo puede hacerse únicamente a través de la opción Build And Run ya que al ejecutar la escena desde Unity (al dar click en el botón Play en la escena) se genera un error.
 
 
 ## Descripción de la extensión desarrollada:
